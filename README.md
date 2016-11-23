@@ -112,3 +112,8 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+## Files
+
+Included GetRelevantData.sh to filter out needed dates for the assignment (2/1/2007 and 2/2/2007) into a new file "household_subset.txt"
+plot1.R, plot2.R, plot3.R and plot4.R creates the figures for the assignment.
